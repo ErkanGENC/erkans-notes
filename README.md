@@ -20,7 +20,7 @@ layout:
 
 # Merhaba
 
-Ben Erkan Genç. Karabük Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.
+Ben Erkan Genç. Karabük Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisidyim.
 
 ### Jump right in
 

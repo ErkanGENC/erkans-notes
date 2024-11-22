@@ -11,4 +11,4 @@
 ## Web Servisler
 
 * [web servisleri](web-servisler/web-servisleri.md)
-* [🗂️ Swagger](web-servisler/swagger.md)
+* [🗂️ OpenAPI & Swagger](web-servisler/openapi-and-swagger.md)

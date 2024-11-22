@@ -10,4 +10,5 @@
 
 ## Web Servisler
 
+* [web servisleri](web-servisler/web-servisleri.md)
 * [🗂️ Swagger](web-servisler/swagger.md)

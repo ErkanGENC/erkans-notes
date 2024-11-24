@@ -1,6 +1,8 @@
 ---
-description: Dart Language
 icon: bullseye-arrow
+description: >-
+  (Dart Language), Dart dilinde bilmemiz gereken temel kuralların bilgisi, diğer
+  dillerle olan ilişkisi hakkında bilgi verir.
 ---
 
 # Dart

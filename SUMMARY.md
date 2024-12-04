@@ -18,4 +18,5 @@
 
 * [Dart](flutter/dart.md)
 * [Object Orianted Programming (OOP)](flutter/object-orianted-programming-oop.md)
-* [Generic Listeler](flutter/generic-listeler.md)
+* [Generic Lists](flutter/generic-lists.md)
+* [Getter & Setter Functions](flutter/getter-and-setter-functions.md)

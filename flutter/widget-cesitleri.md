@@ -1,8 +1,8 @@
 ---
+icon: w
 description: >-
   Temel widget yapısının açıklanması.Stateless Widget ve Stateful Widget
   tanımlamaları, farkları ve kullanım alanları açıklanır.
-icon: w
 ---
 
 # Widget Çeşitleri
@@ -35,7 +35,7 @@ icon: w
 
 
 
-## _Statefull (Durumsal) Widget:_ &#x20;
+## _Stateful (Durumsal) Widget:_ &#x20;
 
 &#x20; _Kullanacağımız ekranda widgetlarda değişiklik olacaksa bunu **Stateful Widget** kullanarak oluştururuz._
 

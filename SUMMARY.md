@@ -16,6 +16,7 @@
 
 ## FLUTTER
 
+* [Temel Notlar](flutter/temel-notlar.md)
 * [Dart](flutter/dart.md)
 * [Object Orianted Programming (OOP)](flutter/object-orianted-programming-oop.md)
 * [Generic Lists](flutter/generic-lists.md)

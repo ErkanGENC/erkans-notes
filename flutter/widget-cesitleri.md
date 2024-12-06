@@ -7,7 +7,7 @@ description: >-
 
 # Widget Çeşitleri
 
-## _Widget Nedir ?_&#x20;
+## _Widget Nedir .?_&#x20;
 
 &#x20; Widgetlar, kullanıcıya sunulan grafik öğelerin (butonlar, metin kutuları, resimler vb.) temel yapı taşlarıdır. Ancak, widgetların nasıl yönetildiği ve durumlarının nasıl takip edildiği, geliştirme sürecinde önemli bir fark yaratabilir.
 

@@ -22,6 +22,6 @@
 * [Getter & Setter Functions](flutter/getter-and-setter-functions.md)
 * [Widget Çeşitleri](flutter/widget-cesitleri.md)
 
-## Group 1
+## Note'S
 
-* [Note's](group-1/notes.md)
+* [Node.js](notes/node.js.md)

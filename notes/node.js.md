@@ -1,9 +1,9 @@
 ---
+icon: node
 description: Öğrenelimm.
-icon: 'n'
 ---
 
-# Note's
+# Node.js
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qlOGcybSv1XQ1ISL.png" alt=""><figcaption></figcaption></figure>
 

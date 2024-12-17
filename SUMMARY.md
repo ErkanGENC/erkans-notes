@@ -6,7 +6,6 @@
 
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
-* [Page](getting-started/page.md)
 
 ## Web Servisler
 
@@ -22,3 +21,7 @@
 * [Generic Lists](flutter/generic-lists.md)
 * [Getter & Setter Functions](flutter/getter-and-setter-functions.md)
 * [Widget Çeşitleri](flutter/widget-cesitleri.md)
+
+## Group 1
+
+* [Note's](group-1/notes.md)

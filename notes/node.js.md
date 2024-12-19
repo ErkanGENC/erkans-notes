@@ -13,7 +13,7 @@ JS, uzun yıllar boyunca yalnızca web tarayıcılarında çalışan bir dil ola
 
 Peki neden Nodejs kullanmalıyız? Bu sorunun cevabını bir önceki paragrafta az çok vermiş olsak da aslında daha birçok avantajı olduğunu söyleyebilirim. Mesela hızlı, ölçeklenebilir ve verimli web uygulamaları geliştirebiliriz. Önceden geleneksel sunucu tarafı teknolojileri, çok sayıda eşzamanlı kullanıcıyı yönetmede zorlanıyordu. Nodejs, olay tabanlı yapısı sayesinde bu sorunu aşmış oldu. Özellikle asenkron I/O (input/output, girdi/çıktı) yapısı sayesinde, bloklama olmadan çok sayıda işlemi aynı anda yürütebiliyor. Kullanım alanı olarak da en çok da real-time yani gerçek zamanlı uygulamalar için idealdir diyebiliriz. Örnek olarak sohbet uygulamaları, oyun sunucuları ya da canlı yayın platformlarını verebiliriz.
 
-**1. Nodejs Nedir?**
+**1. Nodejs Nedir??**
 
 Nodejs, istemci ve sunucu arasında veri alışverişini kolaylaştıran bir çalışma ortamıdır. Mesela bir web tarayıcısından gelen bir HTTP isteğine yanıt olarak bit HTML dosyası döndüren bir sunucu yazabiliriz.
 

@@ -35,7 +35,7 @@ description: >-
 
 
 
-## _Stateful (Durumsal) Widget:_ &#x20;
+## _Stateful (Durumsal) Widgett:_
 
 &#x20; _Kullanacağımız ekranda widgetlarda değişiklik olacaksa bunu **Stateful Widget** kullanarak oluştururuz._
 

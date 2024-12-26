@@ -1,6 +1,6 @@
 ---
-description: Flutter ile ilgili temel bilinmesi gerekenler
 icon: 'n'
+description: Flutter ile ilgili temel bilinmesi gerekenler
 ---
 
 # Temel Notlar
@@ -15,3 +15,4 @@ Margin, bir container düşünüldüğünde container'in çevre ile olan uzaklı
 
 Padding, bir container düşünüldüğünde container'in içerisindeki her bir elemanın container ile olan uzaklığının ayarlanması işini görür.
 
+<figure><img src="../.gitbook/assets/css-padding-margin.gif" alt=""><figcaption></figcaption></figure>

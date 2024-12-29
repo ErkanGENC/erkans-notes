@@ -25,3 +25,7 @@
 ## Note'S
 
 * [Node.js](notes/node.js.md)
+
+## Python
+
+* [Untitled](python/untitled.md)

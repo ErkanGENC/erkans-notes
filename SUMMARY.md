@@ -29,3 +29,4 @@
 ## Python
 
 * [Tupple](python/tupple.md)
+* [🗂️ Dictionary (Sözlük)](python/dictionary-sozluk.md)

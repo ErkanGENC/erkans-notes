@@ -30,3 +30,9 @@
 
 * [Tupple](python/tupple.md)
 * [🗂️ Dictionary (Sözlük)](python/dictionary-sozluk.md)
+
+## #️⃣ C\#
+
+* [Application 1](c/application-1.md)
+* [Turner](c/turner.md)
+* [Hata Yönetimi](c/hata-yonetimi.md)

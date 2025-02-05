@@ -1,5 +1,6 @@
 ---
 description: Try-Catch-Finally
+icon: circle-exclamation
 ---
 
 # Hata Yönetimi

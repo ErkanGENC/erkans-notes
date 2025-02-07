@@ -36,3 +36,11 @@
 * [Application 1](c/application-1.md)
 * [Turner](c/turner.md)
 * [Hata Yönetimi](c/hata-yonetimi.md)
+
+## Microsoft Structered Query Language(SQL)
+
+* [Temel SQL komutları-(SELECT-INSERT-UPDATE)](microsoft-structered-query-language-sql/temel-sql-komutlari-select-insert-update.md)
+* [Temel SQL komutları-(TRUNCATE-DELETE)](microsoft-structered-query-language-sql/temel-sql-komutlari-truncate-delete.md)
+* [Temel SQL komutları-(WHERE)](microsoft-structered-query-language-sql/temel-sql-komutlari-where.md)
+* [Temel SQL komutları-(DISTINCT)](microsoft-structered-query-language-sql/temel-sql-komutlari-distinct.md)
+* [Temel SQL komutları-5 (TOP)](microsoft-structered-query-language-sql/temel-sql-komutlari-5-top.md)

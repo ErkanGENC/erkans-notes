@@ -44,3 +44,6 @@
 * [Temel SQL komutları-(WHERE)](microsoft-structered-query-language-sql/temel-sql-komutlari-where.md)
 * [Temel SQL komutları-(DISTINCT)](microsoft-structered-query-language-sql/temel-sql-komutlari-distinct.md)
 * [Temel SQL komutları-5 (TOP)](microsoft-structered-query-language-sql/temel-sql-komutlari-5-top.md)
+* [SQL Veri Tipleri](microsoft-structered-query-language-sql/sql-veri-tipleri.md)
+* [Aggregate Functions](microsoft-structered-query-language-sql/aggregate-functions.md)
+* [Group By](microsoft-structered-query-language-sql/group-by.md)

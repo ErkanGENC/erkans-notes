@@ -47,3 +47,7 @@
 * [SQL Veri Tipleri](microsoft-structered-query-language-sql/sql-veri-tipleri.md)
 * [Aggregate Functions](microsoft-structered-query-language-sql/aggregate-functions.md)
 * [Group By](microsoft-structered-query-language-sql/group-by.md)
+
+## ASP.NET CORE MVC
+
+* [Model, View, Controller](asp.net-core-mvc/model-view-controller.md)

@@ -5,7 +5,7 @@ icon: rocket
 
 # Model binding, Tag helpers, model validation
 
-#### _1. Model Binding:_
+#### _1. Model Binding:_&#x20;
 
 Model Binding, HTTP isteklerinden gelen verilerin (form verileri, route değerleri, query string parametreleri vb.) otomatik olarak C# nesnelerine dönüştürülmesi işlemidir.
 

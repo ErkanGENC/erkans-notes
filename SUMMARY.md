@@ -51,3 +51,5 @@
 ## ASP.NET CORE MVC
 
 * [Model, View, Controller](asp.net-core-mvc/model-view-controller.md)
+* [Model binding, Tag helpers, model validation](asp.net-core-mvc/model-binding-tag-helpers-model-validation.md)
+* [Page](asp.net-core-mvc/page.md)

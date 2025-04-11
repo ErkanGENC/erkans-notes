@@ -1,13 +1,13 @@
 ---
-icon: bullseye-arrow
 description: >-
   (Dart Language), Dart dilinde bilmemiz gereken temel kuralların bilgisi, diğer
   dillerle olan ilişkisi hakkında bilgi verir.
+icon: bullseye-arrow
 ---
 
 # Dart
 
-* _**Degisken Türleriyle Çalışmak:**_
+* _**Degisken Türleriyle Çalışmak:**_&#x20;
 
 
 
@@ -16,7 +16,7 @@ description: >-
 
 void main() {
   
-  //camelCase
+  //camelCase 
   //PascalCase
 
   String mesaj = "Merhaba Engin";
